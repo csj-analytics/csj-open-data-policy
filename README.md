@@ -5,7 +5,7 @@
 Thank you for your interest in the City of San Jose’s Draft Open Data
 Policy. 
 
-To provide feedback on this draft before December 18, 2015, please
+To provide feedback on this draft, please
 * Use Github Issues
 * Fork a repo, modify the policy, and then create a pull request
 
